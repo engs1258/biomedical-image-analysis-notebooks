@@ -5,4 +5,4 @@ dependencies:
   - numpy
   - matplotlib
   - pydicom
-  - skimage
+  - scikit-image
