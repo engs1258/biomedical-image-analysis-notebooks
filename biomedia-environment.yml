@@ -1,0 +1,8 @@
+name: biomedia-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pydicom
+  - skimage
